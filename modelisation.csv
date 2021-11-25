@@ -1,6 +1,5 @@
-phisiques,acteurs,concept label,concept uri
-vidéo,chercheurs,séminaire,https://lov.linkeddata.es/dataset/lov/terms?q=Seminar
-site web,organisateurs,arcanes,
-,étudiants,éditorialisation,
-,public,,
-,présentateurs,,
+physiques,acteurs,concept label,concept uri
+medias sociaux,entreprises,publicités et promotions,https://lov.linkeddata.es/dataset/lov/terms?q=Advertising%20and%20promotion
+contenus,chercheurs,annonces,https://lov.linkeddata.es/dataset/lov/terms?q=announcement
+publications,clients,réaction et commentaires,
+,consommatters,avis,
