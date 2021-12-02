@@ -1,0 +1,5 @@
+physiques,acteurs,concept label,concept uri,sujet,predicat,objet
+réseaux sociaux,Entreprises,Data Mining,https://lov.linkeddata.es/dataset/lov/terms?q=Data%20mining&type=property,c1,a2,p1
+commentaires,Consommateurs,E-réputation,https://lov.linkeddata.es/dataset/lov/terms?q=E-r%C3%A9putation,c2,a3,p2
+contenu,clients,,,,,
+,influenceurs,,,,,
